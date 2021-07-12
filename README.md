@@ -14,6 +14,8 @@
 
 # 기능 설명
 ### 백엔드는 Koa.js, 프론트엔드는 React.js, DB는 MongoDB로 구성된 간단한 회원가입 + 로그인 기능 웹페이지
++ 메인 페이지
+![스크린샷 2021-07-12 오후 4 16 45](https://user-images.githubusercontent.com/46260973/125246300-97d02980-e32c-11eb-9ebc-7cd96104e313.png)
 
 
 
