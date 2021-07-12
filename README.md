@@ -1,8 +1,19 @@
 # Koa.js + Mongoose + React
 ### 간단한 로그인 / 회원가입 API 실습
 
+# Developer
+### 김민지
 
+# Language & IDE
++ JavaScript(Koa.js, React.js)
++ MongoDB
++ VSCode
 
+# Environment
++ MacOS
+
+# 기능 설명
+### 백엔드는 Koa.js, 프론트엔드는 React.js, DB는 MongoDB로 구성된 간단한 회원가입 + 로그인 기능 웹페이지
 
 
 
